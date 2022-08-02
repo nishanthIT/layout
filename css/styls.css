@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+p{
+  color: #8D8B8B;
+}
+h1{
+  color: #8D8B8B;
+}
+.banner{
+  background-color: #000000;
+  border: 1px;
+}
+.content{
+  padding: 16px;
+}
+
+.nav-link{
+  text-align: center;
+}
+.row{
+  background-color: #000000;
+}
+img {
+  width: 100px;
+  padding: 5%;
+
+}
+#textimonials{
+    text-align:center;
+    background-color:#8D8B8B;
+    margin: 5% 0% 5%;
+}
+.run_img{
+  width: 200px
+}
+.right_row{
+  text-align: center;
+}
